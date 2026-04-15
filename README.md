@@ -1,4 +1,3 @@
-# DuongThuyTram-24521802-Ung-dung-tu-dien
 # Ứng dụng từ điển tiếng Anh bằng Radix-Trie
 
 Thực hành **[CS523] Cấu trúc dữ liệu và giải thuật nâng cao**.
